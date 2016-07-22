@@ -1,6 +1,6 @@
 # ASync Jobs
 
- A class that can make a sync tasks much easier.
+ A class that can make async tasks much easier.
  
  
 ## Creating a job
