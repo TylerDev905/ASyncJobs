@@ -4,7 +4,7 @@
  
  
 ## Creating a job
-```
+```CSharp
 class ExampleJob : Job
 {
   protected override bool Work()
@@ -17,7 +17,7 @@ class ExampleJob : Job
 ```
 
 ## Executing Jobs
-```
+```CSharp
 var jobs = new JobCollection();
 var job = new ExampleJob();
 jobs.Add(job);
